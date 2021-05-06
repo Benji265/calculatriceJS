@@ -1,4 +1,10 @@
 .screen{
     height: 25vh;
     border: 1px solid black;
+    text-align: end;
+}
+
+.styleResult{
+    font-size: 23px;
+    font-weight: bold;
 }
